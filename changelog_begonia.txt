@@ -2,7 +2,7 @@
 Highlights & Device Specific Changes:
 Build type: Beta
 Device: Redmi Note 8 Pro (begonia)
-Device maintainer: Simone Esposito (DarkJoker360)
+Device maintainer: BVK tex_animate
 
 ===== 12 February, 2022 =====
 * Synced with crDroid v8.2 source code

@@ -1,7 +1,7 @@
 {
 	"response": [
 		{
-			"maintainer": "Simone Esposito (DarkJoker360)",
+			"maintainer": "BVK tex_animate",
 			"oem": "Redmi",
 			"device": "Redmi Note 8 Pro",
 			"filename": "crDroidAndroid-12.0-20220212-begonia-v8.2.zip",
@@ -12,17 +12,17 @@
 			"size": 950698502,
 			"version": "8.2",
 			"buildtype": "Beta",
-			"forum": "https://forum.xda-developers.com/t/rom-official-begonia-12-0-crdroidandroid-v8-x.4386913/",
+			"forum": "http://k91122vi.beget.tech/",
 			"gapps": "https://bitgapps.github.io/",
 			"firmware": "",
 			"modem": "",
 			"bootloader": "",
 			"recovery": "",
-			"paypal": "https://www.paypal.com/paypalme/Martiriggiano",
-			"telegram": "https://t.me/crDroidBegonia",
-			"dt": "https://github.com/crdroidandroid/android_device_redmi_begonia",
+			"paypal": "http://k91122vi.beget.tech/",
+			"telegram": "http://k91122vi.beget.tech/",
+			"dt": "http://k91122vi.beget.tech/",
 			"common-dt": "",
-			"kernel": "https://github.com/begonia-dev/android_kernel_xiaomi_mt6785"
+			"kernel": ""
 		}
 	]
 }
