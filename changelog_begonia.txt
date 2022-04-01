@@ -1,6 +1,6 @@
 
 Highlights & Device Specific Changes:
-Build type: Monthly
+Build type: Beta
 Device: Redmi Note 8 Pro (begonia)
 Device maintainer: Simone Esposito (DarkJoker360)
 

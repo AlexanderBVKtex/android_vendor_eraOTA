@@ -1,4 +1,4 @@
-# crDroid OTA repo
+# Era OTA repo
 In order for a device to be officially supported by crDroid, OTA information needs to be added.
 Please refer to the following "Readme" to get started
 
