@@ -1,7 +1,0 @@
-Highlights & Device Specific Changes:
-Build type: Monthly
-Device: Redmi G80 Series
-Device maintainers: Evan Ferrao
-
-==== 27 January, 2022 ====
-- Initial A12 build
