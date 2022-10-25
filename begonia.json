@@ -1,28 +1,25 @@
 {
-	"response": [
-		{
-			"maintainer": "BVK tex_animate",
-			"oem": "Redmi",
-			"device": "Redmi Note 8 Pro",
-			"filename": "eraos-12.1-20220618-begonia-v8.6.zip",
-			"download": "https://github.com/AlexanderBVKtex/begonia_firmware/releases/download/8.6/eraos-12.1-20220618-begonia-v8.6.zip",
-			"timestamp": 1655540656,
-			"md5": "a0f4301338bc98989e8644f1e2d3ee7b",
-			"sha256": "0fe1468844c4fc5e96689898d3dfaa90dfd2d6732868abd108bb19751c2faaef",
-			"size": 1193562084,
-			"version": "8.6",
-			"buildtype": "Monthly",
-			"forum": "http://k91122vi.beget.tech/",
-			"gapps": "https://flamegapps.github.io/",
-			"firmware": "",
-			"modem": "",
-			"bootloader": "",
-			"recovery": "",
-			"paypal": "",
-			"telegram": "http://k91122vi.beget.tech/",
-			"dt": "http://k91122vi.beget.tech/",
-			"common-dt": "",
-			"kernel": "http://k91122vi.beget.tech/"
-		}
-	]
+  "response": [
+    {
+        "maintainer": "BVK tex_animate",
+        "oem": "Redmi",
+        "device": "Redmi Note 8 Pro",
+        "filename": "eraos-13.0-20221025-begonia-v9.0.zip",
+        "download": "https://github.com/AlexanderBVKtex/begonia_firmware/releases/download/9.0/eraos-13.0-20221025-begonia-v9.0.zip",
+        "timestamp": 1666655096,
+        "md5": "6af2dc86b3c7ecc4fcbd29ef9cdac1a3",
+        "sha256": "619414b33b4421b0993ae5ada1a53a9d1615d5ba53ce49df4c1eb4322f1c2198",
+        "size": 1088106991,
+        "version": "9.0",
+        "buildtype": "Monthly",
+        "forum": "http://k91122vi.beget.tech/",
+        "gapps": "https://flamegapps.github.io/",
+        "firmware": "",
+        "modem": "",
+        "bootloader": "",
+        "recovery": "",
+        "paypal": "",
+        "telegram": "http://k91122vi.beget.tech/"
+    }
+  ]
 }
